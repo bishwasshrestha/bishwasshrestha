@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @bishwasshrestha
+- 👋 Hi, I’m Bishwas Shrestha
 - 👀 I’m interested in Web development and android development  
 - 🌱 I’m currently learning fullstack development 
 
