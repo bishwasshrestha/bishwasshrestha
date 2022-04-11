@@ -7,7 +7,7 @@
   - 📱  0440152152
   - 📧 bishwas.shrestha@gmail.com
 
-# 🖥I am currently studying
+## 🖥I am currently studying
 
 **Metropolia University of Applied Sciences**
 * Bachelor's in Information Technology (Mobile Solutions)
