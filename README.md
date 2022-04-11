@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning fullstack development 
 
 - 📫 How to reach me 
--   📱 +358-44-015-2152
--   📧 bishwas.shrestha@gmail.com
+  - 📱  0440152152
+  - 📧 bishwas.shrestha@gmail.com
 
-**🖥I am currently studying**
+# 🖥I am currently studying
 
 **Metropolia University of Applied Sciences**
 * Bachelor's in Information Technology (Mobile Solutions)
