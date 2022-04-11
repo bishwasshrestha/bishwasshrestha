@@ -13,7 +13,7 @@
 * Bachelor's in Information Technology (Mobile Solutions)
 
 **The University of Helsinki**
-* Full Stack Web Development 2021
+* Full Stack Open 2022
 
 
 
