@@ -12,10 +12,6 @@
 **Metropolia University of Applied Sciences**
 * Bachelor's in Information Technology (Mobile Solutions)
 
-**The University of Helsinki**
-* Full Stack Open 2022
-
-
 
 
 <!---
